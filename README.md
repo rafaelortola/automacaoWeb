@@ -9,3 +9,14 @@
 1- Antes de rodar os testes abra cada feature, pois, coloquei algumas massas que estão comentadas. <br>
 2- Para que não possamos queimar todas as massas, descomente a massa que você quer utilizar e rode os testes, lembre-se que dependendo do cenário essa massa não poderá ser mais utilizada, portanto, após a execução é só excluir ou comentar novamente.
 
+# Ferramentas utilizadas
+1- Cucumber e BDD
+2- Junit
+3- Selenium WebDriver
+4- Java
+5- Extent Reports (Relatório mais intuitivo)
+6- Projeto Maven
+
+# Observações
+1- Você vai ver que na criação das features, foi usado na lingua inglesa. <br> Criamos tudo em inglês devido ao uso do Extent Report, pois, até meu conhecimento não tem em português.
+
